@@ -4,7 +4,7 @@ A 3D-printed four-cup anemometer that measures wind speed using a digital
 Hall effect sensor (KY-003) and an Arduino Uno R4 WiFi. Developed for the
 Laboratory of Sensors course (Prof. Alexandro Catini).
 
-![Anemometer](images/cover.jpg)
+
 
 ## How it works
 
