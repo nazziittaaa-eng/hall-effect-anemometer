@@ -58,7 +58,7 @@ Calibrated against a Viterbo weather station (Weather Underground).
 
 ## Full report
 
-See (docs/hall_effect_anemometer9.pdf).
+See [the full report](hall%20effect%20anemometer9.pdf).
 
 ## Author
 
